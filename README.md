@@ -1,5 +1,7 @@
 # Landing Page Jekyll theme
 
+Javascript
+
 Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
 
 ## How to use
